@@ -37,3 +37,12 @@ function preserveDecimal(n){
 }
 
 
+add(3, 2)
+subtract(4, 2)
+multiply(3, 2)
+divide(3, 2)
+increment(6)
+decrement(7)
+console.log(makeInt('Hi'))
+console.log(preserveDecimal("3.222222"))
+
